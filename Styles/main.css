@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    z-index: -1;
+  }
+ 
+  header{
+    position: absolute;
+    width: 100%;
+    height: 110px;
+    text-align: right;
+  }
+  header img{
+    float: left;
+    width: 200px;
+    height: 40px;
+    margin-top: 27px;
+  }
+  header div p:first-child{
+    font-size: 16px;
+    font-family: 'Sunflower', sans-serif;
+    color: white;
+    float: left;
+    margin-top: 38px;
+    margin-left: -70px;
+  }
+  header div p:nth-child(2){
+    font-size: 50px;
+    font-family: 'Sunflower', sans-serif;
+    color: white;
+    float: left;
+    margin-top: 258px;
+    margin-left: 283px;
+  }
+  header div p:nth-child(3){
+    font-size: 26px;
+    font-family: 'Sunflower', sans-serif;
+    color: white;
+    float: left;
+    margin-top: 35px;
+    margin-left: 601px;
+  }
+  header div p:nth-child(4){
+    font-size: 20px;
+    font-family: 'Sunflower', sans-serif;
+    color: white;
+    float: left;
+    margin-top: 8px;
+    margin-left: 621px;
+  }
+  nav ul li{
+    display: inline-block;
+    margin: -3px 51px 0px -85px;
+  }
+  nav ul{
+    margin: 0;
+    padding: 10px;
+  }
+  a{
+    text-decoration: none;
+    color: white;
+    padding: 30px 20px 10px 30px;
+    font-size: 16px;
+    display: block;
+    font-family: 'Sunflower', sans-serif;
+  }
+  header video{
+    position: absolute;
+    width: 100%;
+    height: 759px;
+    top:-90px;
+    left: 0px;
+  }
+  .uno{
+    position: relative;
+    width: 321px;
+    height: 390px;
+    float: left;
+    left: 197px;
+    top: 715px;
+  }
+  .uno img{
+    width: 662px;
+    height: 306px;
+  }
+  aside p:first-child{  
+    font-size: 23px;
+    font-family: 'Sunflower', sans-serif;
+    color: rgb(65, 63, 63);
+    float: left;
+    margin-top: 711px;
+    margin-left: 579px;
+    border-bottom: solid 2px dodgerblue;
+    padding-bottom: 12px;
+  }
+  aside p{
+    font-size: 16px;
+    font-family: 'Sunflower', sans-serif;
+    color: rgb(65, 63, 63);
+    float: left;
+    margin-top: 20px;
+    margin-left: 901px;
+  }
+
+
+    
+ 
